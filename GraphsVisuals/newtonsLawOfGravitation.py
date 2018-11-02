@@ -10,7 +10,7 @@ def draw_graph(x,y):
     plt.plot(x, y, marker='o')
     plt.xlabel('Distance in meters')
     plt.ylabel('Gravitational force in newtons')
-    plt.title('Gravitaional force and distance')
+    plt.title('Gravitational force and distance')
     plt.show()
 
 def genrate_F_r():
