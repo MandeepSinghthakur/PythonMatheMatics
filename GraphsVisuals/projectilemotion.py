@@ -29,7 +29,7 @@
 # airborne for another t_peak seconds, so the total time of flight (t_flight) of the ball is 
 # t(flight) = 2t(peak) = 2 * (u sin(theta) / g)
 
-# Another point = Ther is not built in function for generating the floating numbers so we have to write that too. Its named as frange()
+# Another point = There is not built in function for generating the floating numbers so we have to write that too. Its named as frange()
 
 # Finally lets write a program to draw the trajectory of a ball thrown with a certain velocity and angle - both of which are supplied 
 # as input to the program
