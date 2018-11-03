@@ -1,4 +1,4 @@
-#The Next Statiscal calculations we'll look at measure the dispersion, which tells us how far 
+# The Next Statiscal calculations we'll look at measure the dispersion, which tells us how far 
 # away the numbers in a set of data are from the mean of the data set. We'lll learn to calculate
 # three diffrent measurements of dispersion - RANGE, VARIANCE, STANDARD DEVIATION
 def find_range(numbers):

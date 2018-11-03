@@ -16,7 +16,7 @@
 ####### - Mesurement Units - ########
 # Time = t seconds
 # velocity = v meter/second
-# angle of projection = theta degress
+# angle of projection = theta degrees
 # gravitational acceleration = meter/second^2
 ##################################### 
 
