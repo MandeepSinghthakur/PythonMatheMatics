@@ -1,4 +1,6 @@
-#A word about the initial Values
+#gradient-Ascent.py
+
+A word about the initial Values
 The Initial Value of the variable from which we start the iteration of the gradient ascent
 method plays very important role in the algorithm. More info with diagram in the book.
 
