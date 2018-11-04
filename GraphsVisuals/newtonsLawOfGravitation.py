@@ -1,6 +1,6 @@
 # According to Newton's law of universal gravitation, a body of mass m1 attracts 
 # another body of mass m2 with an amount of force F accoridng to the Formula
-# F = Gm1mm2/r^2
+# F = Gm1m2/r^2
 # where r is the distance b/w two bodies and G is the gravitational constant
 
 import matplotlib.pyplot as plt
