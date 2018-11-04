@@ -1,4 +1,4 @@
-#The Fobonacci sequence (1, 1, 2, 3, 5 ......) si the series of numbers where ith number in the series is the sum of the two previous numbers
+# The Fibonacci sequence (1, 1, 2, 3, 5 ......) is the series of numbers where ith number in the series is the sum of the two previous numbers
 # that is the numbers in the positon ( i -2 ) and (i -1 ). The successive numbers
 # in this series display an intresting relationshsip. As you increase the number of terms
 # in the series, the ratios of consecutive pairs of numbers are nearly equal to each other 
